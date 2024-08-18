@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Building Locations "Realism Location Marker"
 // @namespace    www.missionchief-unofficial.com
-// @version      3.0
+// @version      3.3
 // @description  Displays Real locations in game map for players who want realism
 // @author       MissionChief Unofficial Team
 // @homepage     https://missionchief-unofficial.com
